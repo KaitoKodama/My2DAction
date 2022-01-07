@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a78f8811b33e7c45bddf60098b5d7a8, type: 3}
+  m_Name: Field04
+  m_EditorClassIdentifier: 
+  requirePatch: 4
+  expectStage: 6
+  rollData: {fileID: 0}
+  fieldName: "\u7B2C\u56DB\u306E\u5730 : \u6D1E\u7A9F\u30A8\u30EA\u30A2"
+  messege: "\u6D1E\u7A9F\u5730\u5E2F\u306E\u4E2D\u5FC3\u90E8\n\u3053\u3053\u306B\u3082\u751F\u614B\u7CFB\u304C\u7BC9\u304B\u308C\u3066\u3044\u308B"

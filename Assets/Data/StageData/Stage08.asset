@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef4bd4b4bef11d946a597e0baf9cd0d2, type: 3}
+  m_Name: Stage08
+  m_EditorClassIdentifier: 
+  easy: {fileID: 11400000, guid: fe452fc3275453242b5c6b5cbb447cc9, type: 2}
+  normal: {fileID: 11400000, guid: 1baffbf2b04be5941b502babe1931e9c, type: 2}
+  hard: {fileID: 11400000, guid: c1c829c602f89de4194fd65d8fa8874c, type: 2}
+  extra: {fileID: 11400000, guid: 8d7d061c2486943418d45579ffcd7457, type: 2}
